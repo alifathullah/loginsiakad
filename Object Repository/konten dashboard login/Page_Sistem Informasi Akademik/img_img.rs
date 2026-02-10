@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img</name>
+   <tag></tag>
+   <elementGuidId>3b0f3c31-7035-4b5a-bd49-c105484e1695</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[target=&quot;_blank&quot;] img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@target = '_blank']//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6b365dd5-ce18-4c50-996e-6572147ff565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>120</value>
+      <webElementGuid>8e74d704-cb75-493a-a7f3-a1a5eccdebb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.siakadcloud.com/assets/v1/img/logo-sevima-platform-200.png</value>
+      <webElementGuid>0005e513-a8bc-4155-a928-020eea98d639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-99f967ab08b26f64a5376acedaf1aaf6</value>
+      <webElementGuid>f21c94e3-84b1-4ac7-94ee-554e8351ace5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@target = '_blank']//img</value>
+      <webElementGuid>ff37c59a-675e-43c2-868d-afcf0aec7fd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@target = '_blank']//img</value>
+      <webElementGuid>30173523-2cc0-4753-9a96-d66a2156d850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.siakadcloud.com/assets/v1/img/logo-sevima-platform-200.png']</value>
+      <webElementGuid>5bb240d0-945a-4166-9882-8eaef336fcb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

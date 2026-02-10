@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Universitas Muhammadiyah Jakarta</name>
+   <tag></tag>
+   <elementGuidId>2c7396b2-6d13-42c0-9c87-b6071a5c3977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3 b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3//b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Universitas Muhammadiyah Jakarta&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>f54ae2ad-dd4d-4bb2-be4a-cc964604609f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Universitas Muhammadiyah Jakarta</value>
+      <webElementGuid>490c541b-80ca-45d1-9e23-bfadd6e7cccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ef9ec80caf04ab20234b007690e96dea</value>
+      <webElementGuid>ba46ad18-a730-4560-bf1e-a1149db4b13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3//b</value>
+      <webElementGuid>cc123580-334a-4f4e-861b-f22a3b31aef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3//b</value>
+      <webElementGuid>469394d5-a9dd-4d96-b5ea-4d7712f08729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Universitas Muhammadiyah Jakarta' or . = 'Universitas Muhammadiyah Jakarta')]</value>
+      <webElementGuid>5b6b37e4-cd14-4c22-98d4-b1a1e222f12f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

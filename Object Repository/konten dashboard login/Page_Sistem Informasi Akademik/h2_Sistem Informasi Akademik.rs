@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Sistem Informasi Akademik</name>
+   <tag></tag>
+   <elementGuidId>c22d2a50-ed56-4a78-9d2f-ebb22cd87677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Sistem Informasi Akademik&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d3029097-c898-4e6b-abbd-7d51bdcde226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-margin text-light</value>
+      <webElementGuid>b6383bef-64eb-4081-82bb-fd5f5020add9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sistem Informasi Akademik</value>
+      <webElementGuid>8b8c2148-b5b7-4d27-8fbe-73be3f5cd4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-96e021ee8fe4b2f311baceeb1509f3fe</value>
+      <webElementGuid>e2e7c18c-d91c-4128-b359-777a57c041fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>82de127e-ce16-4e68-b720-37457df5c4ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f43b49bd-bfcd-4dca-bc1d-e022de678e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Sistem Informasi Akademik' or . = 'Sistem Informasi Akademik')]</value>
+      <webElementGuid>ad7a5b43-034e-46f6-b4ca-ccea30f737d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Password</name>
+   <tag></tag>
+   <elementGuidId>a75a41c2-116a-4206-a4ce-633cadcf46c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.form-group:nth-child(4) strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 4)]//strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Password&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>b3192a67-a14e-41c2-9fb2-b90e53dbf8d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>cf107497-7b51-49fd-8df7-59ac2545b724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fe00e17de401e9f5bf20a11410534afd</value>
+      <webElementGuid>c83827b0-44cd-4c51-bbdb-904413838278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 4)]//strong</value>
+      <webElementGuid>1e2540b1-ab7c-4d94-82de-f8384cd671d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 4)]//strong</value>
+      <webElementGuid>6d2bc2e6-9e69-4d5e-b96b-48f9583488f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>bd520752-dcf7-4ea0-b0a4-bfe114481ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
