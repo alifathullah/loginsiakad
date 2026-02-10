@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://siakad.umj.ac.id/gate/login')
+WebUI.navigateToUrl('https://siakad.umj.ac.id/gate/login', FailureHandling.OPTIONAL)
 
 WebUI.maximizeWindow()
 
@@ -37,14 +37,14 @@ WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Infor
     'Masuk dan Verifikasi')
 
 WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/p_Baru Nikmati kemudahan sistem autentikasi tun'), 
-    '')
+    'Baru! Nikmati kemudahan sistem autentikasi tunggal untuk mengakses semua layanan dengan satu akun.')
 
 WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/strong_Email_akun pengguna'), 
-    '')
+    'Email/akun pengguna')
 
-WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/strong_Password'), '')
+WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/strong_Password'), 'Password')
 
-WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/span_Powered By'), '')
+WebUI.verifyElementText(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/span_Powered By'), 'Powered By')
 
 WebUI.verifyElementVisible(findTestObject('konten dashboard login/Page_Sistem Informasi Akademik/img_img'), FailureHandling.STOP_ON_FAILURE)
 
